@@ -1,0 +1,4 @@
+export const SET_DATA = 'SET_DATA';
+export const FETCH_DATA_FAILED = 'FETCH_DATA_FAILED';
+export const REQUEST_SHOWS = 'REQUEST_SHOWS';
+export const TOGGLE_MODAL = 'TOGGLE_MODAL';
